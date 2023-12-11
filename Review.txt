@@ -1,0 +1,27 @@
+
+
+🚀 Excited to share my recent accomplishment in the Codebasics SQL Project Challenge! 🚀
+
+🔍 **Project Overview:**
+In this project, I dived into the world of databases, using the power trio of **MySQL** for querying, **Power BI** for data visualization, and **PowerPoint** to present key insights.
+
+🛠️ **Tools Used:**
+1️⃣ **MySQL:** Unleashed the power of SQL with techniques like Subqueries, Multiple joins, CTE, and Window functions to extract meaningful insights.
+
+2️⃣ **Power BI:** Transformed raw data into compelling visuals, bringing the numbers to life and making trends crystal clear.
+
+3️⃣ **PowerPoint:** Crafted a compelling narrative, leveraging various features to deliver a presentation that not only informs but captivates.
+
+🎓 **Key Learnings:**
+From mastering intricate SQL concepts to exploring the depths of PowerPoint, this project was a masterclass in practical application. 
+Huge shoutout to Dhaval Patel, Hemanand Vadivel, and the entire Codebasics community for curating projects that translate into real-world skills.
+
+🙌 **Gratitude:**
+Special thanks to NAVEEN S, Kirandeep.
+
+Please do comment if any modification required.
+
+🚀 Ready to take on the next challenge and continue this journey of learning and growth! 💪
+
+#Codebasics #SQLProject #DataAnalytics #PowerBI #MySQL #PowerPoint #LearningJourney #DataScience #LinkedInPost
+
